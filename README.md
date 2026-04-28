@@ -1,8 +1,8 @@
-# Aha ~ I'm Elyon
+# Hi 👋, I'm Elyon
 
 <!-- Profile image on the right -->
-<img align="right" src="" alt="" width="400"/>
-
+<!-- <img align="right" src="" alt="" width="400"/> -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Elyon0517&label=Profile views&color=0e75b6&style=flat" alt="Elyon0517" /> </p>
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
